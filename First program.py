@@ -1,3 +1,5 @@
+#Accept two int values from user and return their product. 
+# If the product is greater than 1000, then return their sum
 def prod (num1, num2):
     value = num1 * num2
     if(value<1000):
